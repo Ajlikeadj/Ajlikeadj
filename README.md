@@ -16,8 +16,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 First-year undergrad at **SRM Institute of Science and Technology (KTR)**
-- 🔭 Currently working on **pjjet**, a tool that prepares files for LLMs
-- 📚 I turn what I study (Calculus, Chemistry, Thermodynamics, Bio) into interactive web pages
+- 📚 I turn what I study (Calculus, Chemistry, Thermodynamics, Bio, etc.) into interactive web pages for others to learn
 - 🌱 Learning C, Python and web development, one project at a time
 - 💬 Ask me about: study resources, CLI tools, getting started with C
 
