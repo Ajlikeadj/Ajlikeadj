@@ -61,8 +61,7 @@
 ## 🎯 Goals for This Year
 
 - [x] Start building in public on GitHub
-- [ ] Ship a stable release of **pjjet**
-- [ ] Get comfortable with data structures in C and Python
+- [x] Ship a stable release of **pjjet**
 - [ ] Contribute to an open-source project
 
 ---
