@@ -47,5 +47,5 @@
 * Feel free to open an issue or drop a ⭐ on any repo if you find it helpful!
 
 <div align="center">
-  <img src="https://rahuldkjain.github.io/gh-profile-readme-generator/cards/stats?username=Ajlikeadj&theme=nord&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajlikeadj&show_icons=true&theme=nord&hide_border=true" alt="GitHub Stats" />
 </div>
