@@ -8,6 +8,8 @@
 
 </div>
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Ajlikeadj&layout=compact&langs_count=5&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Ajlikeadj&layout=compact&langs_count=5&theme=dark_github)
+
 ---
 
 ### 💻 About Me
